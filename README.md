@@ -1,4 +1,4 @@
-# 최양선 할머님의 팔순 생신 잔치 초대장 홈페이지 소스 코드입니다.
+# 최양선 할머님의 팔순 생신 잔치 초대장 홈페이지 소스입니다.
 최양선 할머님의 생신 잔치에 초대합니다.
 
 소스 코드 출처 : https://github.com/hanbyeol-sungsub-wedding/hanbyeol-sungsub-wedding.github.io
